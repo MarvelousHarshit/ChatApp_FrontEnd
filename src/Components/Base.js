@@ -209,7 +209,7 @@ function Base() {
             <Typography variant="body2" color="text.secondary" align="center" {...props}>
                 {'Copyright © '}
                 <Link color="inherit" href="#">
-                    www.hemant.com
+                    www.harshit.com
                 </Link>{' '}
                 {new Date().getFullYear()}
                 {'.'}
